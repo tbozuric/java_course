@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DZ</string>
+    <string name="enter_numbers">Unesite brojeve:</string>
+    <string name="btn_calculate">Izračunaj</string>
+    <string name="enter_dividend">Unesite djeljenika</string>
+    <string name="enter_divider">Unesite djelitelja</string>
+    <string name="enter_text">Unesite tekst</string>
+    <string name="send_back">Pošalji natrag</string>
+    <string name="send_mail">Pošalji</string>
+    <string name="send_to">Primatelj:</string>
+    <string name="title">Naslov:</string>
+    <string name="message">Poruka</string>
+    <string name="enter_mail_address">Unesite e-mail adresu</string>
+    <string name="enter_title">Unesite naslov</string>
+    <string name="enter_message">Unesite poruku</string>
+    <string name="compose_email">Sastavi poruku</string>
+    <string name="send_result">Pošalji rezultat</string>
+    <string name="error_message">Nepotpun unos. Molimo provjerite polja.</string>
+    <string name="invalid_email_form">Email adresa nije u ispravnom formatu.</string>
+    <string name="unsupported_operation">Nedozvoljena operacija</string>
+</resources>

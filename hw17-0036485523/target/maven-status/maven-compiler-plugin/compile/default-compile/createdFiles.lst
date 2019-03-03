@@ -1,0 +1,5 @@
+hr/fer/zemris/java/models/ImageModel.class
+hr/fer/zemris/java/rest/FullImageResource.class
+hr/fer/zemris/java/rest/ThumbnailResource.class
+hr/fer/zemris/java/rest/TagImageResource.class
+hr/fer/zemris/java/rest/TagResource.class

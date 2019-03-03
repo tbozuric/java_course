@@ -1,0 +1,6 @@
+{$ FOR i 1 10 1 $}
+    ovo je pro\\bni tekst{ gdjl\{$fdgljgdflj.
+{$ FOR i 1 10 1 $}
+sin({$=i$}^2) = {$= i i * @sin "0.000" @decfmt $}
+{$END$}
+{$END$}

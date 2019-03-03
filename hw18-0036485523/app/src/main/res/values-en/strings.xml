@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Homework</string>
+    <string name="enter_numbers">Enter numbers:</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="enter_dividend">Enter dividend</string>
+    <string name="enter_divider">Enter divider</string>
+    <string name="enter_text">Enter text</string>
+    <string name="send_back">Send back</string>
+    <string name="send_mail">Send</string>
+    <string name="send_to">Send to:</string>
+    <string name="title">Title:</string>
+    <string name="message">Message</string>
+    <string name="enter_mail_address">Enter e-mail address</string>
+    <string name="enter_title">Enter title</string>
+    <string name="enter_message">Enter message</string>
+    <string name="compose_email">Compose email</string>
+    <string name="send_result">Send result</string>
+    <string name="error_message">Incomplete entry. Please check the fields.</string>
+    <string name="unsupported_operation">Unsupported operation</string>
+
+</resources>
