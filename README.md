@@ -5,9 +5,9 @@ Course homeworks
 
 ### HW13 - JNotepad++
 
-![JNotepad++](hw13.png)
+![JNotepad++](images/hw13.png)
 
 
 ### HW16 - JDraw
 
-![JDraw++](hw16-2.png)
+![JDraw++](images/hw16-2.png)
